@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Waddah 👋
 
-<!--
-**WadahBadawi/WadahBadawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Cybersecurity Analyst & Reverse Engineer** focused on vulnerability assessment, system security analysis, low-level inspection, and building resilient security platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Core Expertise & Focus
+* **Vulnerability Assessment & Research:** Automated scanning architectures, web/cloud ecosystem security, and threat modeling.
+* **Reverse Engineering & Analysis:** Malware analysis, binary analysis, protocol disassembly, and system behavior inspection.
+* **Network & Endpoint Security:** Secure infrastructure, VPN/tunneling mechanisms, and network traffic audit.
+
+---
+
+### 🚀 Featured Projects
+* **E-Scan:** A cloud-based automated vulnerability assessment platform designed for analyzing e-commerce infrastructure.
+* **R1:** Autonomous surveillance drone prototype with an emphasis on secure telemetry, long-range links, and embedded control logic.
+
+---
+
+### 📊 GitHub Stats
+![Wadah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WadahBadawi&show_icons=true&theme=radical)
