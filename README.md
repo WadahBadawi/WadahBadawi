@@ -1,4 +1,4 @@
-### Hi there, I'm Waddah 👋
+### Hi there, I'm Wadah 👋
 
 I am a **Cybersecurity Analyst & Reverse Engineer** focused on vulnerability assessment, system security analysis, low-level inspection, and building resilient security platforms.
 
