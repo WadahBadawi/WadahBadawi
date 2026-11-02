@@ -15,7 +15,3 @@ I am a **Cybersecurity Analyst & Reverse Engineer** focused on vulnerability ass
 * **E-Scan:** A cloud-based automated vulnerability assessment platform designed for analyzing e-commerce infrastructure.
 * **R1:** Autonomous surveillance drone prototype with an emphasis on secure telemetry, long-range links, and embedded control logic.
 
----
-
-### 📊 GitHub Stats
-![Wadah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WadahBadawi&show_icons=true&theme=radical)
